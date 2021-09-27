@@ -1,4 +1,4 @@
-#deine a module
+#define a module
 def find_missing_char(chars):
     missingChar = ''
     #loop
